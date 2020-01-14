@@ -1,0 +1,21 @@
+.App {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.Title{
+  margin: auto;
+  display: flex;
+  justify-content:center;
+  padding: 10px;
+}
+table{
+  border-collapse: collapse;
+}
+table, td, th{
+  border: 1px solid black;
+  padding: 10px;
+}
+td{
+  vertical-align: bottom;
+}
